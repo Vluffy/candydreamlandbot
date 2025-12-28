@@ -1,50 +1,59 @@
 {
   "list1": [
-    "Xenon","Xtreme","Xavier","Xplode","Xylo","Xtract","Xeno","Xerox","Xcalibur","Xmark",
-    "Yankee","Yellow","Yonder","Yukon","Ymir","Yield","Ypsilon","Yard","Young","Yondera",
-    "Titan","Thunder","Tornado","Turbo","Tundra","Tempest","Trigger","Torch","Tactic","Talon",
-    "Zephyr","Zero","Zenith","Zodiac","Zombie","Zorro","Zylon","Zetta","Zonic","Zerion",
-    "Omega","Orbit","Oracle","Origin","Oxide","OmegaX","Omni","Onyx","Octane","Overlord",
-
-    "Xalpha","Xbeta","Xgamma","Xdelta","Xforce","Xnova","Xstorm","Xflare","Xshadow","Xprime",
-    "Yalpha","Ybeta","Ygamma","Ydelta","Yforce","Ynova","Ystorm","Yflare","Yshadow","Yprime",
-    "Talpha","Tbeta","Tgamma","Tdelta","Tforce","Tnova","Tstorm","Tflare","Tshadow","Tprime",
-    "Zalpha","Zbeta","Zgamma","Zdelta","Zforce","Znova","Zstorm","Zflare","Zshadow","Zprime"
+    "Xenon", "Xtreme", "Xavier", "Xplode", "Xylo", "Xtract", "Xeno", "Xerox", "Xcalibur", "Xmark",
+    "Xander", "Xylon", "Xerxes", "Xtinct", "Xplorer", "Xpress", "Xcess", "Xotic", "Xray", "Xpand",
+    "Xhale", "Xtasy", "Xiled", "Xodus", "Xcelerate",
+    
+    "Yankee", "Yellow", "Yonder", "Yukon", "Ymir", "Yield", "Ypsilon", "Yard", "Young", "Yondera",
+    "Yeti", "Yara", "Yacht", "Yorker", "Yawn", "Yarn", "Yoke", "Yule", "Yelp", "Yoga",
+    "Yonder", "Yasper", "Yagger", "Yeoman", "Yapper",
+    
+    "Titan", "Thunder", "Tornado", "Turbo", "Tundra", "Tempest", "Trigger", "Torch", "Tactic", "Talon",
+    "Trooper", "Tango", "Tracker", "Trident", "Tremor", "Tactics", "Tracer", "Trinity", "Trojan", "Tyrant",
+    "Thermal", "Thrust", "Twilight", "Typhoon", "Tensor",
+    
+    "Zephyr", "Zero", "Zenith", "Zodiac", "Zombie", "Zorro", "Zylon", "Zetta", "Zonic", "Zerion",
+    "Zealot", "Zipper", "Zenon", "Zapper", "Zinc", "Zander", "Zoom", "Zeal", "Zone", "Zircon",
+    "Zigzag", "Zulu", "Zenith", "Zapper", "Zestful",
+    
+    "Omega", "Orbit", "Oracle", "Origin", "Oxide", "Omni", "Onyx", "Octane", "Overlord",
+    "Opal", "Omen", "Osprey", "Outlaw", "Oasis", "Ogre", "Otter", "Opus", "Oberon", "Oxbow",
+    "Officer", "Orchid", "Outcast", "Oyster", "Ozone", "Oath"
   ],
-
+  
   "list2": [
-    "Alpha","Apex","Atom","Aurora","Aether","Arrow","Ash","Atlas","Arc","Astra",
-    "Nova","Neon","Nexus","Nitro","Night","North","Neutron","Nimbus","Noble","Nerve",
-    "Ultra","Unity","Uplink","Umbra","Ursa","Uranus","Upgrade","Unknown","User","Utility",
-
-    "AlphaX","ApexX","AtomX","AuroraX","AetherX",
-    "NovaX","NeonX","NexusX","NitroX","NightX",
-    "UltraX","UnityX","UmbraX","UrsaX","UplinkX",
-    "Axiom","Anchor","Aegis","Nigga","Nigger","Nuclear","Unreal"
+    "Alpha", "Apex", "Atom", "Aurora", "Aether", "Arrow", "Ash", "Atlas", "Arc", "Astra",
+    "Anchor", "Axiom", "Aegis", "Axel", "Armor", "Advent", "Azure", "Avalon", "Archer", "Amber",
+    "Ace", "Angel", "Anvil", "Arcane", "Astro",
+    
+    "Nova", "Neon", "Nexus", "Nitro", "Night", "North", "Neutron", "Nimbus", "Noble", "Nerve",
+    "Nebula", "Ninja", "Nomad", "Neptune", "Noir", "Nexon", "Nectar", "Nucleus", "Narwhal", "Nether",
+    "Nightfall", "Nimble", "Northstar", "Nordic", "Nightmare","Nigga","Nigger",
+    
+    "Ultra", "Unity", "Uplink", "Umbra", "Ursa", "Uranus", "Upgrade", "Unknown", "User", "Utility",
+    "Ulysses", "Urban", "Uniform", "Uplift", "Utopia", "Urchin", "Uber", "Unicorn", "Universe", "Upstream",
+    "Unison", "Ultimo", "Underdog", "Uptown", "Umber"
   ],
-
+  
   "list3": [
-    "Flux","Fury","Fable","Frost","Falcon","Forge","Fusion","Flash","Feral","Factor",
-    "Jolt","Jaguar","Jinx","Jade","Jet","Joker","Justice","Javelin","Jupiter","Judge",
-    "Omega","Obsidian","Oracle","Origin","OmegaPrime","Onyx","Overkill","Outlaw","Orbit","OmegaZero",
-    "Logic","Legend","Lunar","Lucid","Limit","Lancer","Legacy","Light","Lock","Lion",
-    "Quantum","Quasar","Quick","Quill","Quota","Query","Quartz","Queue","Quest","Quake",
-
-    "FluxX","FluxPrime","FluxZero","FluxCore","FluxOne",
-    "FuryX","FuryPrime","FuryZero","FuryCore","FuryOne",
-    "JoltX","JoltPrime","JoltZero","JoltCore","JoltOne",
-    "OmegaX","OmegaCore","OmegaOne","OmegaMax","OmegaUltra",
-    "LogicX","LogicPrime","LogicZero","LogicCore","LogicOne",
-    "QuantumX","QuantumPrime","QuantumZero","QuantumCore","QuantumOne",
-
-    "FalconX","FalconPrime","FalconZero","FalconCore","FalconOne",
-    "JaguarX","JaguarPrime","JaguarZero","JaguarCore","JaguarOne",
-    "LunarX","LunarPrime","LunarZero","LunarCore","LunarOne",
-    "QuasarX","QuasarPrime","QuasarZero","QuasarCore","QuasarOne",
-
-    "ForgeX","ForgePrime","ForgeZero","ForgeCore","ForgeOne",
-    "JetX","JetPrime","JetZero","JetCore","JetOne",
-    "ObsidianX","ObsidianPrime","ObsidianZero","ObsidianCore","ObsidianOne
-    "
+    "Flux", "Fury", "Fable", "Frost", "Falcon", "Forge", "Fusion", "Flash", "Feral", "Factor",
+    "Phoenix", "Phantom", "Firefly", "Frontier", "Fortis", "Fathom", "Fragment", "Frenzy", "Fortress", "Fortune",
+    "Flare", "Fighter", "Foxfire", "Frontier", "Fractal",
+    
+    "Jolt", "Jaguar", "Jinx", "Jade", "Jet", "Joker", "Justice", "Javelin", "Jupiter", "Judge",
+    "Jasper", "Jericho", "Jumper", "Juggernaut", "Journey", "Jockey", "Jungle", "Jester", "Jetstream", "Jammer",
+    "Jinxed", "Javelin", "Jive", "Joyride", "Jagged",
+    
+    "Omega", "Obsidian", "Oracle", "Origin", "Onyx", "Overkill", "Outlaw", "Orbit",
+    "Olympus", "Onslaught", "Operative", "Overture", "Optic", "Overlord", "Octagon", "Odyssey", "Osmium", "Outpost",
+    "Overflow", "Outlook", "Oxen", "Optimize", "Oblivion", "Obelisk", "Operator",
+    
+    "Logic", "Legend", "Lunar", "Lucid", "Limit", "Lancer", "Legacy", "Light", "Lock", "Lion",
+    "Lynx", "Laser", "Lightning", "Leviathan", "Labyrinth", "Locker", "Lumen", "Luthor", "Leopard", "Lava",
+    "Lotus", "Lance", "Lurker", "Lynxfire", "Liberty",
+    
+    "Quantum", "Quasar", "Quick", "Quill", "Quota", "Query", "Quartz", "Queue", "Quest", "Quake",
+    "Quicksilver", "Quarry", "Quadrant", "Quiver", "Quintet", "Quirk", "Quickdraw", "Quill", "Quotient", "Quanta",
+    "Quench", "Quickstep", "Quickfire", "Quarantine", "Questor"
   ]
 }
